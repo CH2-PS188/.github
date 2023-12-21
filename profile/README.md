@@ -1,3 +1,7 @@
+<div align="center" id="top"> 
+  <img src="https://i.postimg.cc/YSb1nkBx/logo.png" width="200" alt="Moneo"/>
+</div>
+
 <h1 align="center">Moneo App</h1>
 
 ## About
